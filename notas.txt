@@ -1,0 +1,11 @@
+Notas sobre proyecto
+
+Crear una carpeta y dentro de ella en una terminal
+npm i -g nodemon
+npm init -y
+npm i express    /*GRepo de git*/
+
+Instalar Cors
+https://www.npmjs.com/package/cors
+npm install cors
+
